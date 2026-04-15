@@ -4,7 +4,7 @@
 
 - 视频压缩为 MP4（H.264 + AAC）
 - 批量压缩 PNG/JPEG 图片
-- 从 PNG 生成多尺寸 ICO 图标
+- 从 PNG 生成 Windows 标准的多尺寸 ICO 图标
 
 脚本基于常见命令行工具（`ffmpeg`、`pngquant`、`jpegoptim`、`ImageMagick`），适合本地自动化处理媒体资源。
 
